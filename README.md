@@ -1,4 +1,4 @@
-# A List of Web Pages Providing Information on COVID Vaccine Breakthrough Infections in the United States
+# A List of Web Resources Providing Information on COVID Vaccine Breakthrough Infections in the United States
 
 
 |   Name    | Link | Jurisdiction | Type |  Provides |
