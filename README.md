@@ -11,5 +11,7 @@
 |   Contra Costa County Breakthrough Cases  |  [link](https://www.coronavirus.cchealth.org/vaccine-dashboard)        |  Contra Costa County, CA         | county |   daily incidences (7-day rolling average) for unvax, fully vax|
 |   Oregon Breakthrough Cases  |  [link](https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Report-08-2021.pdf)        |  Oregon         | state |   monthly report with specific case numbers by vaccination status, incidence chart over time (daily?)|
 |   Washington State Breakthrough Cases  |  [link](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#heading58074)        |  Washington         | state |   weekly report with specific case numbers by vaccination status|
+|   Utah State Breakthrough Cases  |  [link](https://coronavirus-dashboard.utah.gov/risk.html)        |  Utah         | state |  summary stats aggregated over previous 30 days, great demographic breakdown|
+
 
 
