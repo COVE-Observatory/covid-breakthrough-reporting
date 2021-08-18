@@ -10,5 +10,6 @@
 |   Massachusetts Breakthrough Cases  |  [link](https://www.mass.gov/info-details/massachusetts-covid-19-vaccination-data-and-updates#daily-covid-19-vaccine-report-)        |  Massachusetts         | state |  cumulative case counts. Archive available to allow extraction|
 |   Contra Costa County Breakthrough Cases  |  [link](https://www.coronavirus.cchealth.org/vaccine-dashboard)        |  Contra Costa County, CA         | county |   daily incidences (7-day rolling average) for unvax, fully vax|
 |   Oregon Breakthrough Cases  |  [link](https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Report-08-2021.pdf)        |  Oregon         | state |   monthly report with specific case numbers by vaccination status, incidence chart over time (daily?)|
+|   Washington State Breakthrough Cases  |  [link](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#heading58074)        |  Washington         | state |   weekly report with specific case numbers by vaccination status|
 
 
