@@ -14,6 +14,8 @@
 |   Utah Breakthrough Cases  |  [link](https://coronavirus-dashboard.utah.gov/risk.html) [download](https://coronavirus-dashboard.utah.gov/Utah_COVID19_data.zip)        |  Utah        | state |  summary stats, chart over time (7-day rolling) great demographic breakdown|
 |   South Carolina Breakthrough Cases  |  [link](https://covid19.sccgov.org/dashboard-case-rates-vaccination-status) |  SC        | state |  summary stats (natural language) by month|
 |   Santa Clara County Breakthrough Cases  |  [link](https://scdhec.gov/covid19/covid-19-vaccine/cases-hospitalizations-deaths-among-not-fully-vaccinated)        |  Santa Clata County, CA         | state |  summary chart by vaccination status over time, clickable data |
+|  New York Breakthrough Cases (CDC Study)  |  [link](https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e1.htm)        |  New York        | state |  statistics by status for each week, demographic splits, controls and matching |
+
 
 
 
