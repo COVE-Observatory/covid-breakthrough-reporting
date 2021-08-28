@@ -17,8 +17,7 @@
 |  New York State Breakthrough Cases (CDC Study)  |  [link](https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e1.htm)        |  New York        | state |  statistics by status for each week, demographic splits, controls and matching |
 |  Ohio State Breakthrough Cases  |  [link](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/breakthrough-dashboard)        |  Ohio        | state |  summary stats, needs weekly snapshots to extract information. Updates Thursdays |
 |  Maryland State Breakthrough Cases  |  [link](https://coronavirus.maryland.gov)        |  Maryland        | state |  summary stats, needs weekly snapshots to extract information. |
-
-
+|  Connecticut State Breakthrough Cases  |  [link](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary8192021.pdf)        |  Connecticut        | state |  summary incidence rates monthly by vax status |
 
 
 
