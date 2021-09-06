@@ -18,9 +18,7 @@
 |  Ohio State Breakthrough Cases  |  [link](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/breakthrough-dashboard)        |  Ohio        | state |  summary stats, needs weekly snapshots to extract information. Updates Thursdays |
 |  Maryland State Breakthrough Cases  |  [link](https://coronavirus.maryland.gov)        |  Maryland        | state |  summary stats, needs weekly snapshots to extract information. |
 |  Connecticut State Breakthrough Cases  |  [link](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary8192021.pdf)        |  Connecticut        | state |  summary incidence rates monthly by vax status |
-
-
-
+|  Seattle and King County, Washington Breakthrough Cases  |  [link](ttps://kingcounty.gov/depts/health/covid-19/data/vaccination-outcomes.aspx)        |  King County, WA        | county |  great dashboard of incidences |
 
 
 
