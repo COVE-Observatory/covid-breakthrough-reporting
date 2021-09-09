@@ -19,7 +19,7 @@
 |  Maryland State Breakthrough Cases  |  [link](https://coronavirus.maryland.gov)        |  Maryland        | state |  summary stats, needs weekly snapshots to extract information. |
 |  Connecticut State Breakthrough Cases  |  [link](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary8192021.pdf)        |  Connecticut        | state |  summary incidence rates monthly by vax status |
 |  Seattle and King County, Washington Breakthrough Cases  |  [link](https://kingcounty.gov/depts/health/covid-19/data/vaccination-outcomes.aspx)        |  King County, WA        | county |  great dashboard of incidences |
-| Ontario, Canada |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| province | csv daily reports| 
+| Ontario, Canada Breakthrough Cases |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| Ontario, CA |  province | csv daily reports | 
 
 
 
