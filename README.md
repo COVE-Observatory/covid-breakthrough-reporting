@@ -31,7 +31,7 @@ These are included in the analysis for [https://doi.org/10.1101/2021.09.18.21263
 |  Wisconsin  |  [link](https://www.dhs.wisconsin.gov/covid-19/vaccine-status.htm#download)        |  Wisconsin        | state |  summary stats in machine readable format.  Reason not included: Will include. Need to make extractor |
 |  Tennessee  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Tennessee        | state |  summary stats in machine readable format. Reason not included: Will include, need to manually extract data |
 |  Los Angeles County  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Los Angeles County, CA        | county |  Reason not included: Will include, need to manually extract data |
-|  Georgia  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Georgia        | state |  Reason not included: Need to write extractor, received time series data |
+|  Georgia  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Georgia        | state |  Reason not included: Will include. Need to write extractor, received time series data |
 | Ontario, Canada Breakthrough Cases |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| Ontario, Canada |  province | csv daily reports; Reason not included: non-US data  | 
 
 http://publichealth.lacounty.gov/media/coronavirus/data/reopening-dashboard.htm
