@@ -1,5 +1,5 @@
-# A List of Web Resources Providing Information on COVID Vaccine Breakthrough Infections in the United States
-
+# A List of Web Resources Providing Information on COVID Vaccine Breakthrough Infections
+These are included in the analysis for [https://doi.org/10.1101/2021.09.18.21263783](https://doi.org/10.1101/2021.09.18.21263783)
 
 |   Name    | Link | Jurisdiction | Type |  Provides |
 | ----------- | ----------- |----------- | ----------- | ----------- |
@@ -15,12 +15,26 @@
 |   South Carolina Breakthrough Cases  |  [link](https://scdhec.gov/covid19/covid-19-vaccine/cases-hospitalizations-deaths-among-not-fully-vaccinated) |  SC        | state |  summary stats (natural language) by month|
 |   Santa Clara County Breakthrough Cases  |  [link](https://covid19.sccgov.org/dashboard-case-rates-vaccination-status)        |  Santa Clata County, CA         | state |  summary chart by vaccination status over time, clickable data |
 |  New York State Breakthrough Cases (CDC Study)  |  [link](https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e1.htm)        |  New York        | state |  statistics by status for each week, demographic splits, controls and matching |
-|  Ohio State Breakthrough Cases  |  [link](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/breakthrough-dashboard)        |  Ohio        | state |  summary stats, needs weekly snapshots to extract information. Updates Thursdays |
-|  Maryland State Breakthrough Cases  |  [link](https://coronavirus.maryland.gov)        |  Maryland        | state |  summary stats, needs weekly snapshots to extract information. |
-|  Connecticut State Breakthrough Cases  |  [link](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary8192021.pdf)        |  Connecticut        | state |  summary incidence rates monthly by vax status |
+|  Connecticut State Breakthrough Cases  |  [link](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary8192021.pdf)        |  Connecticut        | state |  summary incidence rates monthly by vax status. New Connecticut API [link](https://data.ct.gov/dataset/COVID-19-Cases-by-Vaccination-Status/d5k4-zq6c) TODO: Write extractor for API source |
 |  Seattle and King County, Washington Breakthrough Cases  |  [link](https://kingcounty.gov/depts/health/covid-19/data/vaccination-outcomes.aspx)        |  King County, WA        | county |  great dashboard of case and hospitalization incidences |
-| Ontario, Canada Breakthrough Cases |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| Ontario, Canada |  province | csv daily reports | 
 
+
+
+# A List of Other Web Resources Providing Information on COVID Vaccine Breakthrough Infections
+- We are evaluating or have yet to add these to our model
+
+
+|   Name    | Link | Jurisdiction | Type |  Provides |
+| ----------- | ----------- |----------- | ----------- | ----------- |
+|  Ohio State Breakthrough Cases  |  [link](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/breakthrough-dashboard)        |  Ohio        | state |  summary stats, needs weekly snapshots to extract information. Updates Thursdays. Reason not included: Archives are unavailable |
+|  Maryland State Breakthrough Cases  |  [link](https://coronavirus.maryland.gov)        |  Maryland        | state |  summary stats, needs weekly snapshots to extract information. Reason not included: Archives are unavailable  |
+|  Wisconsin  |  [link](https://www.dhs.wisconsin.gov/covid-19/vaccine-status.htm#download)        |  Wisconsin        | state |  summary stats in machine readable format.  Reason not included: Will include. Need to make extractor |
+|  Tennessee  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Tennessee        | state |  summary stats in machine readable format. Reason not included: Will include, need to manually extract data |
+|  Los Angeles County  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Los Angeles County, CA        | county |  Reason not included: Will include, need to manually extract data |
+|  Georgia  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Georgia        | state |  Reason not included: Need to write extractor, received time series data |
+| Ontario, Canada Breakthrough Cases |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| Ontario, Canada |  province | csv daily reports; Reason not included: non-US data  | 
+
+http://publichealth.lacounty.gov/media/coronavirus/data/reopening-dashboard.htm
 
 
 
