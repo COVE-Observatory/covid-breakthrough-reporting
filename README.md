@@ -32,7 +32,8 @@ These are included in the analysis for [https://doi.org/10.1101/2021.09.18.21263
 |  Tennessee  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Tennessee        | state |  summary stats in machine readable format. Reason not included: Will include, need to manually extract data |
 |  Los Angeles County  |  [link](http://publichealth.lacounty.gov/media/coronavirus/data/reopening-dashboard.htm)        |  Los Angeles County, CA        | county |  Reason not included: Will include, need to manually extract data |
 |  Georgia  |  [link](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/CriticalIndicatorReport.pdf)        |  Georgia        | state |  Reason not included: Will include. Need to write extractor, received time series data |
-|  New York City  |  [link](https://github.com/nychealth/coronavirus-data/tree/master/latest) [dashboard](https://github.com/nychealth/coronavirus-data/tree/master/latest)       |  Georgia        | state |  Reason not included: Will include. Need to write extractor, received time series data |
+|  New York City  |  [link](https://github.com/nychealth/coronavirus-data/tree/master/latest) [dashboard](https://github.com/nychealth/coronavirus-data/tree/master/latest)       |  New York City        | city |  Reason not included: Will include. Need to write extractor, received time series data |
+|  California  |  [link](https://covid19.ca.gov/state-dashboard/)       |  California       | state |  Reason not included: Will include. Need to write extracto |
 | Ontario, Canada Breakthrough Cases |[link](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/eed63cf2-83dd-4598-b337-b288c0a89a16)| Ontario, Canada |  province | csv daily reports; Reason not included: non-US data  | 
 
 
