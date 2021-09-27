@@ -1,6 +1,6 @@
 Snapshots and other information to support data collection over time.
 
-Ian has placed the following status information here.
+Ian has placed the following status information here. **NO** means they said no. **YES** means that we already have data, or that they supplied data in response to my request. **Pending** means I asked but no response. **Action** means that they replied with a request for more information.
 
 | State | Status | Details |
 | ----------- | ----------- | ----- |
