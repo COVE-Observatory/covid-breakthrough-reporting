@@ -16,8 +16,8 @@ Ian has placed the following status information here. **NO** means they said no.
 | Georgia | YES | Sent request to DPH-OpenRecords@dph.ga.gov on 9/20/2021. Received data file (PDF) on 9/22/2021. |
 | Hawaii| - | - |
 | Idaho| - | - |
-| Illinois| - | - |
-| Indiana| - | - |
+| Illinois| Pending | I tried writing to DoIT.SDP.Support@illinois.gov, the email support request for the state data portal. |
+| Indiana| Pending | Submitted an enquiry via the [Regenstrief data dashboard](https://www.regenstrief.org/covid-dashboard/) on 9/27/2021. |
 | Iowa| - | - |
 | Kansas| - | - |
 | Kentucky | Pending | Sent request to KYcovid19@ky.gov on 9/24/2021. Probably not the right place. |
