@@ -4,7 +4,7 @@ Ian has placed the following status information here.
 
 | State | Status | Details |
 | ----------- | ----------- | ----- |
-| Alabama| Pending | Emailed covid19info@adph.state.al.us per their [FAQ](https://www.alabamapublichealth.gov/covid19/faq.html), probably the wrong address. |
+| Alabama| Pending | Emailed covid19info@adph.state.al.us on 9/24/2021 per their [FAQ](https://www.alabamapublichealth.gov/covid19/faq.html).  Laura.Callaham@adph.state.al.us replied on 9/27/2021 with a nice note and asked me to fill in their [data request form](https://epiweb.adph.state.al.us/redcap/surveys/?s=88RNEEW7XT), which I did, asking for "Weekly or more frequent data on Covid cases, broken down by vaccination status (vaccinated vs. partially or not vaccinated). Also, if possible, data broken down for severe/hospitalized/ICU/death, and by age, again partitioned into vax/non-vax. Finally, if possible, testing volumes, broken out by vax status." |
 | Alaska | Pending | Emailed joseph.mclaughlin@alaska.gov, Alaska State Epidemiologist, on 9/22/2021. Perhaps the wrong contact. |
 | Arizona| - | Tried pio@azdhs.gov on 9/24/2021 as per [this webpage](https://www.azdhs.gov/director/public-information-office/index.php#contact-us). Probably the wrong address. |
 | Arkansas | Pending | Emailed Kenley Money, Director, Information Systems Architecture, kenley.money@achi.net on 9/24/2021. We could also try ADH.CoronaVirus@arkansas.gov if she does not respond. |
