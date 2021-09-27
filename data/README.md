@@ -4,15 +4,15 @@ Ian has placed the following status information here.
 
 | State | Status | Details |
 | ----------- | ----------- | ----- |
-| Alabama| Pending | Emailed covid19info@adph.state.al.us on 9/24/2021 per their [FAQ](https://www.alabamapublichealth.gov/covid19/faq.html).  Laura.Callaham@adph.state.al.us replied on 9/27/2021 with a nice note and asked me to fill in their [data request form](https://epiweb.adph.state.al.us/redcap/surveys/?s=88RNEEW7XT), which I did, asking for "Weekly or more frequent data on Covid cases, broken down by vaccination status (vaccinated vs. partially or not vaccinated). Also, if possible, data broken down for severe/hospitalized/ICU/death, and by age, again partitioned into vax/non-vax. Finally, if possible, testing volumes, broken out by vax status." |
+| Alabama| Action | Emailed covid19info@adph.state.al.us on 9/24/2021 per their [FAQ](https://www.alabamapublichealth.gov/covid19/faq.html).  Laura.Callaham@adph.state.al.us replied on 9/27/2021 with a nice note and asked me to fill in their [data request form](https://epiweb.adph.state.al.us/redcap/surveys/?s=88RNEEW7XT), which I did, asking for "Weekly or more frequent data on Covid cases, broken down by vaccination status (vaccinated vs. partially or not vaccinated). Also, if possible, data broken down for severe/hospitalized/ICU/death, and by age, again partitioned into vax/non-vax. Finally, if possible, testing volumes, broken out by vax status." |
 | Alaska | Pending | Emailed joseph.mclaughlin@alaska.gov, Alaska State Epidemiologist, on 9/22/2021. Perhaps the wrong contact. |
-| Arizona| - | Tried pio@azdhs.gov on 9/24/2021 as per [this webpage](https://www.azdhs.gov/director/public-information-office/index.php#contact-us). Probably the wrong address. |
+| Arizona| Pending | Tried pio@azdhs.gov on 9/24/2021 as per [this webpage](https://www.azdhs.gov/director/public-information-office/index.php#contact-us). Probably the wrong address. |
 | Arkansas | Pending | Emailed Kenley Money, Director, Information Systems Architecture, kenley.money@achi.net on 9/24/2021. We could also try ADH.CoronaVirus@arkansas.gov if she does not respond. |
 | California| - | - |
 | Colorado| - | - |
 | Connecticut| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Delaware| - | - |
-| Florida | Pending | Sent data request to DCHPDataRequest@FLHealth.gov on 9/24/2021, per [their web site](http://www.floridahealth.gov/diseases-and-conditions/disease-reporting-and-management/disease-reporting-and-surveillance/data-and-publications/data-requests.html) |
+| Florida | Action | Sent data request to DCHPDataRequest@FLHealth.gov on 9/24/2021, per [their web site](http://www.floridahealth.gov/diseases-and-conditions/disease-reporting-and-management/disease-reporting-and-surveillance/data-and-publications/data-requests.html). They sent me a Word form to fill in, which I di on 9/27/2021. I asked for the same data as for Alabama. |
 | Georgia | YES | Sent request to DPH-OpenRecords@dph.ga.gov on 9/20/2021. Received data file (PDF) on 9/22/2021. |
 | Hawaii| - | - |
 | Idaho| - | - |
@@ -21,13 +21,13 @@ Ian has placed the following status information here.
 | Iowa| - | - |
 | Kansas| - | - |
 | Kentucky | Pending | Sent request to KYcovid19@ky.gov on 9/24/2021. Probably not the right place. |
-| Louisiana| Pending | Submitting public records request, record request P001987-092421. |
+| Louisiana| Action | Submitted public records request on 9/24/2021. Response from ldh@govqa.us gave record request P001987-092421 and said to check for status at their [record center](https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HRDJ8VJ6HKSY5lQVF1BWZ1H8OSUOuQ2WNTuRuJ1Bd2kywcWk87giRlBZ7-2F9QCCF1ug-3D-3Dzk9N_0lyCX-2FMQSK-2F08qkJBat0pgansRvDTZ2K6beDjqIy8lt5LUnsSSKz8c3JMYo6zx4DgekhJYdEEAVL7cuSZLwswLCkopOcreSNfC-2BK-2Ba3-2BlWvImBqAuiMzzot-2Fe0lLmcxJnhGZ-2B4fWr365n3Thtz7Llz4eCwRVlXdlyz-2BBho-2B-2FVZF4qpRwyryEbFzkQk9ZqAv8d1nvLwBHwN3RP4qqZ016r9hF2Zy3Us94odPVJ6LqE90ge-2FBzlMveNRXg0-2B7RxHtBiT2GQd-2FRETA50UEcPwSuGXDuwP26s-2BBnpBW-2BiiI7A0DJIU8pNbJdSM8jocckS-2F9PptYXCFummGzPwffznhcihyi3MIdwPC14Ndbdhz6JBMI-3D). I amended this on 9/27/2024 to request the data requested for Alabama. |
 | Maine| - | - |
 | Maryland| - | - |
 | Massachusetts| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Michigan| - | - |
 | Minnesota| - | - |
-| Mississippi | Pending | Submitted request via portal. Got reply from Director, Data Governance, David.Trewolla@msdh.ms.gov. Assigned Ticket ID 905: send status requests to InfoRequests@msdh.ms.gov. | 
+| Mississippi | Action | Submitted request via portal. Got reply from Director, Data Governance, David.Trewolla@msdh.ms.gov. Assigned Ticket ID 905: send status requests to InfoRequests@msdh.ms.gov. | 
 | Missouri | Pending | Sent email to COVID-19_Dashboard@governor.mo.gov on 9/24/2021, per [their dashboard](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/), which however does not mention breakthrough data. |
 | Montana| - | - |
 | Nebraska| - | - |
@@ -44,9 +44,9 @@ Ian has placed the following status information here.
 | Pennsylvania| - | - |
 | Rhode Island| - | - |
 | South Carolina| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
-| South Dakota| - | - |
-| Tennessee| - | - |
-| Texas | NO | Sent request to coronavirus@dshs.texas.gov. Their reply: "We cannot release vaccination data for research purposes per ImmTrac legal statutes & the aggregate fatality analysis has not been approved for release yet." |
+| South Dakota| Pending | Emailed DOHDataRequest@state.sd.us based on [their web page](https://doh.sd.gov/statistics/) on 9/27/2021. |
+| Tennessee| Pending | I submitted a [data request](https://www.tn.gov/health/health-program-areas/statistics.html) to Office of Informatics & Analytics, Tennessee Department of Health, Data.Health@tn.gov. Asked for same data as for Alabama. I also emailed epidemiologist Tonya McKennley. |
+| Texas | NO | Sent request to coronavirus@dshs.texas.gov. Their reply: "We cannot release vaccination data for research purposes per ImmTrac legal statutes & the aggregate fatality analysis has not been approved for release yet." Note: I also reached out to Dan Stanzione from TACC, who put me in touch with kpierce@tacc.utexas.edu, who may have local county data. |
 | Utah| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Vermont| - | - |
 | Virginia| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
