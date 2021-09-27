@@ -18,8 +18,8 @@ Ian has placed the following status information here. **NO** means they said no.
 | Idaho| - | - |
 | Illinois| Pending | I tried writing to DoIT.SDP.Support@illinois.gov, the email support request for the state data portal. |
 | Indiana| Pending | Submitted an enquiry via the [Regenstrief data dashboard](https://www.regenstrief.org/covid-dashboard/) on 9/27/2021. |
-| Iowa| - | - |
-| Kansas| - | - |
+| Iowa| Pending | Wrote to RERC@idph.iowa.gov on 9/29/2021, found on [their data center site](https://www.idph.iowa.gov/PublicHealthData/data-requests). |
+| Kansas| Pending | Wrote to covid-19@ks.gov on 9/29/2021. As they don't seem to have a state Covid dashboard, I'm not holding my breath. |
 | Kentucky | Pending | Sent request to KYcovid19@ky.gov on 9/24/2021. Probably not the right place. |
 | Louisiana| Action | Submitted public records request on 9/24/2021. Response from ldh@govqa.us gave record request P001987-092421 and said to check for status at their [record center](https://u8387778.ct.sendgrid.net/ls/click?upn=6HtRfOYLt5fXvpttM-2FU1HRDJ8VJ6HKSY5lQVF1BWZ1H8OSUOuQ2WNTuRuJ1Bd2kywcWk87giRlBZ7-2F9QCCF1ug-3D-3Dzk9N_0lyCX-2FMQSK-2F08qkJBat0pgansRvDTZ2K6beDjqIy8lt5LUnsSSKz8c3JMYo6zx4DgekhJYdEEAVL7cuSZLwswLCkopOcreSNfC-2BK-2Ba3-2BlWvImBqAuiMzzot-2Fe0lLmcxJnhGZ-2B4fWr365n3Thtz7Llz4eCwRVlXdlyz-2BBho-2B-2FVZF4qpRwyryEbFzkQk9ZqAv8d1nvLwBHwN3RP4qqZ016r9hF2Zy3Us94odPVJ6LqE90ge-2FBzlMveNRXg0-2B7RxHtBiT2GQd-2FRETA50UEcPwSuGXDuwP26s-2BBnpBW-2BiiI7A0DJIU8pNbJdSM8jocckS-2F9PptYXCFummGzPwffznhcihyi3MIdwPC14Ndbdhz6JBMI-3D). I amended this on 9/27/2024 to request the data requested for Alabama. |
 | Maine| - | - |
