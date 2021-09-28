@@ -5,7 +5,7 @@ Ian has placed the following status information here. **NO** means they said no.
 | State | Status | Details |
 | ----------- | ----------- | ----- |
 | Alabama| Action | Emailed covid19info@adph.state.al.us on 9/24/2021 per their [FAQ](https://www.alabamapublichealth.gov/covid19/faq.html).  Laura.Callaham@adph.state.al.us replied on 9/27/2021 with a nice note and asked me to fill in their [data request form](https://epiweb.adph.state.al.us/redcap/surveys/?s=88RNEEW7XT), which I did, asking for "Weekly or more frequent data on Covid cases, broken down by vaccination status (vaccinated vs. partially or not vaccinated). Also, if possible, data broken down for severe/hospitalized/ICU/death, and by age, again partitioned into vax/non-vax. Finally, if possible, testing volumes, broken out by vax status." |
-| Alaska | Pending | Emailed joseph.mclaughlin@alaska.gov, Alaska State Epidemiologist, on 9/22/2021. Perhaps the wrong contact. |
+| Alaska | Pending | Emailed joseph.mclaughlin@alaska.gov, Alaska State Epidemiologist, on 9/22/2021. Perhaps the wrong contact. Wrote to covidquestions@alaska.gov on 9/27/2021. |
 | Arizona| Pending | Tried pio@azdhs.gov on 9/24/2021 as per [this webpage](https://www.azdhs.gov/director/public-information-office/index.php#contact-us). Probably the wrong address. |
 | Arkansas | Pending | Emailed Kenley Money, Director, Information Systems Architecture, kenley.money@achi.net on 9/24/2021. We could also try ADH.CoronaVirus@arkansas.gov if she does not respond. |
 | California| - | - |
@@ -36,19 +36,19 @@ Ian has placed the following status information here. **NO** means they said no.
 | New Jersey | Pending | Wrote to covid.dashboard@doh.nj.gov on 9/22/2021. Perhaps wrong address? | 
 | New Mexico | Pending | Wrote to COVID.Epi-Reports@state.nm.us per [their dashboard](https://cv.nmhealth.org/epidemiology-reports/), which however does not mention breakthrough data. |
 | New York| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
-| North Carolina| - | - |
+| North Carolina| Pending | Reached out on 9/27/2021 to Dr. ClarLynda Williams-DeVane at cwilliams-devane@fisk.edu, director of the NC State Center for Health Statistics. |
 | North Dakota| - | - |
-| Ohio| - | - |
-| Oklahoma| - | - |
+| Ohio| - | Couldn't find any useful contact. |
+| Oklahoma| Pending | Emailed okcovid19@outlook.com and covid19@health.ok.gov on 9/27/2021. The former is for [Oklahoma's best Covid dashboard](https://ok-covid-19.com): not clear if it is the state. The latter is for the state dashboard, which has [good PDF reports](https://oklahoma.gov/covid19/newsroom/weekly-epidemiology-and-surveillance-report.html) with lots of disaggregated data, but only monthly. |
 | Oregon| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
-| Pennsylvania| - | - |
+| Pennsylvania| Pending | Trying the "contact us" button on the PA department of health website on 9/27/2021. Long shot. Also Marshal Ma, director of the division of community epidemiology, at zhm20@pitt.edu. |
 | Rhode Island| - | - |
 | South Carolina| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | South Dakota| Pending | Emailed DOHDataRequest@state.sd.us based on [their web page](https://doh.sd.gov/statistics/) on 9/27/2021. |
 | Tennessee| Pending | I submitted a [data request](https://www.tn.gov/health/health-program-areas/statistics.html) to Office of Informatics & Analytics, Tennessee Department of Health, Data.Health@tn.gov. Asked for same data as for Alabama. I also emailed epidemiologist Tonya McKennley. |
 | Texas | NO | Sent request to coronavirus@dshs.texas.gov. Their reply: "We cannot release vaccination data for research purposes per ImmTrac legal statutes & the aggregate fatality analysis has not been approved for release yet." Note: I also reached out to Dan Stanzione from TACC, who put me in touch with kpierce@tacc.utexas.edu, who may have local county data. |
 | Utah| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
-| Vermont| - | - |
+| Vermont| Pending | Wrote to AHS.VDHDataRequests@vermont.gov on 9/27/2021. |
 | Virginia| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | Washington| YES | See [main page](https://github.com/blaiszik/covid-breakthrough-reporting) |
 | West Virginia| - | - |
