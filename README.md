@@ -1,5 +1,10 @@
 # A List of Web Resources Providing Information on COVID Vaccine Breakthrough Infections
+
+
 These are included in the analysis for [https://doi.org/10.1101/2021.09.18.21263783](https://doi.org/10.1101/2021.09.18.21263783)
+
+
+**Automated:** Virginia, NYC, Ontario, Utah
 
 |   Name    | Link | Jurisdiction | Type |  Provides |
 | ----------- | ----------- |----------- | ----------- | ----------- |
